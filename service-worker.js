@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/navneet-admin1/precache-manifest.9ae74211c4bf938c16ad09f0179fc980.js"
+  "/navneet-admin1/precache-manifest.8f4568596bd69e40d8a6058902dfe4e9.js"
 );
 
 self.addEventListener('message', (event) => {
