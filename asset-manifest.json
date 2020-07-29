@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/navneet-admin1/static/css/main.5f361e03.chunk.css",
-    "main.js": "/navneet-admin1/static/js/main.d74bb714.chunk.js",
-    "main.js.map": "/navneet-admin1/static/js/main.d74bb714.chunk.js.map",
+    "main.js": "/navneet-admin1/static/js/main.7eb17b06.chunk.js",
+    "main.js.map": "/navneet-admin1/static/js/main.7eb17b06.chunk.js.map",
     "runtime-main.js": "/navneet-admin1/static/js/runtime-main.62d5b53b.js",
     "runtime-main.js.map": "/navneet-admin1/static/js/runtime-main.62d5b53b.js.map",
-    "static/js/2.5db110a2.chunk.js": "/navneet-admin1/static/js/2.5db110a2.chunk.js",
-    "static/js/2.5db110a2.chunk.js.map": "/navneet-admin1/static/js/2.5db110a2.chunk.js.map",
+    "static/js/2.fcf963a5.chunk.js": "/navneet-admin1/static/js/2.fcf963a5.chunk.js",
+    "static/js/2.fcf963a5.chunk.js.map": "/navneet-admin1/static/js/2.fcf963a5.chunk.js.map",
     "index.html": "/navneet-admin1/index.html",
-    "precache-manifest.8976cd0d606ae425abcfbb0a6f906ca1.js": "/navneet-admin1/precache-manifest.8976cd0d606ae425abcfbb0a6f906ca1.js",
+    "precache-manifest.9ae74211c4bf938c16ad09f0179fc980.js": "/navneet-admin1/precache-manifest.9ae74211c4bf938c16ad09f0179fc980.js",
     "service-worker.js": "/navneet-admin1/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/navneet-admin1/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5db110a2.chunk.js.LICENSE.txt": "/navneet-admin1/static/js/2.5db110a2.chunk.js.LICENSE.txt",
+    "static/js/2.fcf963a5.chunk.js.LICENSE.txt": "/navneet-admin1/static/js/2.fcf963a5.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/navneet-admin1/static/media/logo.6c8c7e46.png"
   },
   "entrypoints": [
     "static/js/runtime-main.62d5b53b.js",
-    "static/js/2.5db110a2.chunk.js",
+    "static/js/2.fcf963a5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d74bb714.chunk.js"
+    "static/js/main.7eb17b06.chunk.js"
   ]
 }
