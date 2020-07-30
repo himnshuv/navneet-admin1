@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4cebc7b921efa1cec322f466c0cdb68e",
+    "revision": "52ac24bd96c4e5b6618dfed7bc65b184",
     "url": "/navneet-admin1/index.html"
   },
   {
-    "revision": "04abdb7d8d9e665e5ab0",
+    "revision": "1ebb0e3f5f62e14a4cbf",
     "url": "/navneet-admin1/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/navneet-admin1/static/js/2.5db110a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04abdb7d8d9e665e5ab0",
-    "url": "/navneet-admin1/static/js/main.fcae703e.chunk.js"
+    "revision": "1ebb0e3f5f62e14a4cbf",
+    "url": "/navneet-admin1/static/js/main.408561cd.chunk.js"
   },
   {
     "revision": "b130739970f729a419e5",

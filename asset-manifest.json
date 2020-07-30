@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/navneet-admin1/static/css/main.5f361e03.chunk.css",
-    "main.js": "/navneet-admin1/static/js/main.fcae703e.chunk.js",
-    "main.js.map": "/navneet-admin1/static/js/main.fcae703e.chunk.js.map",
+    "main.js": "/navneet-admin1/static/js/main.408561cd.chunk.js",
+    "main.js.map": "/navneet-admin1/static/js/main.408561cd.chunk.js.map",
     "runtime-main.js": "/navneet-admin1/static/js/runtime-main.62d5b53b.js",
     "runtime-main.js.map": "/navneet-admin1/static/js/runtime-main.62d5b53b.js.map",
     "static/js/2.5db110a2.chunk.js": "/navneet-admin1/static/js/2.5db110a2.chunk.js",
     "static/js/2.5db110a2.chunk.js.map": "/navneet-admin1/static/js/2.5db110a2.chunk.js.map",
     "index.html": "/navneet-admin1/index.html",
-    "precache-manifest.fde72b69d214be18848a9bf52929f510.js": "/navneet-admin1/precache-manifest.fde72b69d214be18848a9bf52929f510.js",
+    "precache-manifest.8f804585f1acbb299d226ac11f2648ac.js": "/navneet-admin1/precache-manifest.8f804585f1acbb299d226ac11f2648ac.js",
     "service-worker.js": "/navneet-admin1/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/navneet-admin1/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.5db110a2.chunk.js.LICENSE.txt": "/navneet-admin1/static/js/2.5db110a2.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.62d5b53b.js",
     "static/js/2.5db110a2.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.fcae703e.chunk.js"
+    "static/js/main.408561cd.chunk.js"
   ]
 }
